@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkframe"]=self["webpackChunkframe"]||[]).push([[849],{849:function(e,r,n){n.r(r),n.d(r,{default:function(){return f}});var u=function(){var e=this,r=e._self._c;return r("div")},t=[],a={name:"ClassroomOrderDetail"},l=a,s=n(1001),c=(0,s.Z)(l,u,t,!1,null,"28c3557c",null),f=c.exports}}]);

@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkframe"]=self["webpackChunkframe"]||[]).push([[1240],{1240:function(e,r,n){n.r(r),n.d(r,{default:function(){return c}});var u=function(){var e=this,r=e._self._c;return r("div")},t=[],a={name:"MyCourseOrderDetail"},f=a,l=n(1001),s=(0,l.Z)(f,u,t,!1,null,"5da84e0c",null),c=s.exports}}]);
